@@ -9,6 +9,7 @@ i eat crayons is a basic work day planner/scheduler
 - bootstrap
 
 ### deployed link
+https://box-monkey.github.io/i-eat-crayons/
 
 ## screenshots
 ![retrograde](./wds.png)
